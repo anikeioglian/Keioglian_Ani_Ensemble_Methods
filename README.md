@@ -1,2 +1,2 @@
 # Keioglian_Ani_Ensemble_Methods
-# Enjoy this notebook that shows how to code a variety of ensemble methods with Python!
+# Enjoy this code that shows how to program a variety of ensemble methods with Python!
